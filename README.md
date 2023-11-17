@@ -26,7 +26,7 @@ Os diagramas criados na fase 1 do projeto estão disponíveis na pasta [diagrama
 
 ## Descrição dos Cenários
 
-### [1. Cadastro de Pessoa Física](#cadastro-de-pessoa-física)
+### [Cadastro de Pessoa Física](#cadastro-de-pessoa-física)
 
 **Cenário Principal: Cadastro de Pessoa Física**
 - **Ator Principal:** Pessoa Física
@@ -44,7 +44,7 @@ Os diagramas criados na fase 1 do projeto estão disponíveis na pasta [diagrama
 1. Dados Inválidos.
 2. Cancelamento do Cadastro.
 
-### [2. Cadastro de Pessoa Jurídica](#cadastro-de-pessoa-jurídica)
+### [Cadastro de Pessoa Jurídica](#cadastro-de-pessoa-jurídica)
 
 **Cenário Principal: Cadastro de Pessoa Jurídica**
 - **Ator Principal:** Pessoa Jurídica
@@ -62,7 +62,7 @@ Os diagramas criados na fase 1 do projeto estão disponíveis na pasta [diagrama
 1. Dados Incompletos.
 2. Cancelamento do Cadastro.
 
-### [3. Cadastro de Fornecedores](#cadastro-de-fornecedores)
+### [Cadastro de Fornecedores](#cadastro-de-fornecedores)
 
 **Cenário Principal: Cadastro de Fornecedores**
 - **Ator Principal:** Fornecedor
@@ -80,7 +80,7 @@ Os diagramas criados na fase 1 do projeto estão disponíveis na pasta [diagrama
 1. Dado não aceito.
 2. Dado já cadastrado.
 
-### [4. Cadastro de Professores](#cadastro-de-professores)
+### [Cadastro de Professores](#cadastro-de-professores)
 
 **Cenário Principal: Cadastro de Professores**
 - **Ator Principal:** Professores
@@ -99,7 +99,7 @@ Os diagramas criados na fase 1 do projeto estão disponíveis na pasta [diagrama
 2. Professor possui cadastro.
 
 
-### [5. Cadastro de Alunos (Continuação)](#cadastro-de-alunos-continuação)
+### [Cadastro de Alunos (Continuação)](#cadastro-de-alunos-continuação)
 
 **Fluxo Alternativo 1: Matrícula Incorreta**
 1. O Aluno digita uma matrícula incorreta.
