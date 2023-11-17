@@ -99,7 +99,19 @@ Os diagramas criados na fase 1 do projeto estão disponíveis na pasta [diagrama
 2. Professor possui cadastro.
 
 
-### [Cadastro de Alunos (Continuação)](#cadastro-de-alunos-continuação)
+### [Cadastro de Alunos](#cadastro-de-alunos)
+
+**Cenário Principal: Cadastro de Alunos**
+- **Ator Principal:** Alunos
+- **Pré-condição:** Cadastro no sistema.
+- **Pós-condição:** Aluno cadastrado com sucesso.
+
+**Fluxo Principal:**
+1. Acesso à funcionalidade de cadastro.
+2. Preenchimento do formulário.
+3. Confirmação e solicitação do cadastro.
+4. Verificação de campos preenchidos e análise de matrícula.
+5. Notificação de finalização.
 
 **Fluxo Alternativo 1: Matrícula Incorreta**
 1. O Aluno digita uma matrícula incorreta.
@@ -113,7 +125,6 @@ Os diagramas criados na fase 1 do projeto estão disponíveis na pasta [diagrama
 2. O sistema exibe uma mensagem de erro indicando que o cadastro está incompleto, apontando os campos a serem preenchidos.
 3. O sistema oferece a opção para o aluno entrar em contato com a secretária da universidade.
 4. Uma opção de voltar à página principal é apresentada.
-
 ---
 
 ## Contribuições
