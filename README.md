@@ -11,17 +11,16 @@ Este repositório contém os protótipos da interface do sistema desenvolvidos p
 
 ## Protótipos Funcionais
 
-Os protótipos funcionais foram desenvolvidos utilizando ferramentas como Miro ou Figma, refletindo fielmente o que foi modelado anteriormente na fase 1 do projeto.
+Os [protótipos](https://github.com/Jessicacintra-eng/uni-24/tree/9ee350cbba2e699241932982cd117016a6b99185/Prot%C3%B3tipos) funcionais foram desenvolvidos utilizando ferramentas como Miro ou Figma, refletindo fielmente o que foi modelado anteriormente na fase 1 do projeto.
 
-- [Protótipo de Pessoa Física](caminho/para/prototipo_pessoa_fisica)
-- [Protótipo de Pessoa Jurídica](caminho/para/prototipo_pessoa_juridica)
-- [Protótipo de Professores](caminho/para/prototipo_professores)
-- [Protótipo de Fornecedores](caminho/para/prototipo_fornecedores)
-- [Protótipo de Alunos](caminho/para/prototipo_alunos)
+**Todos os protótipos e telas podem ser conferidos no [figma do projeto](https://www.figma.com/file/8SE0CtkvsntEzb3vBdtiln/PI---3%C2%BA-Semestre?type=design&node-id=60%3A19766&mode=design&t=0m3G8i4BRks16atA-1)**
+
+- [Protótipos](https://github.com/Jessicacintra-eng/uni-24/tree/9ee350cbba2e699241932982cd117016a6b99185/Prot%C3%B3tipos)
+
 
 ## Diagramas
 
-Os diagramas criados na fase 1 do projeto estão disponíveis na pasta [diagramas](caminho/para/diagramas), em formato Markdown.
+Os diagramas criados na fase 1 do projeto estão disponíveis na pasta [diagramas](https://github.com/Jessicacintra-eng/uni-24/tree/9ee350cbba2e699241932982cd117016a6b99185/Diagramas), em formato Markdown.
 
 
 ## Descrição dos Cenários
