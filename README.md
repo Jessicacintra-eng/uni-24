@@ -15,12 +15,24 @@ Os [protótipos](https://github.com/Jessicacintra-eng/uni-24/tree/9ee350cbba2e69
 
 **Todos os protótipos e telas podem ser conferidos no [figma do projeto](https://www.figma.com/file/8SE0CtkvsntEzb3vBdtiln/PI---3%C2%BA-Semestre?type=design&node-id=60%3A19766&mode=design&t=0m3G8i4BRks16atA-1)**
 
-- [Protótipos](https://github.com/Jessicacintra-eng/uni-24/tree/9ee350cbba2e699241932982cd117016a6b99185/Prot%C3%B3tipos)
+## Vídeo
+
+[![](https://github.com/Jessicacintra-eng/uni-24/raw/9ee350cbba2e699241932982cd117016a6b99185/Prot%C3%B3tipos/login.jpg)](https://github.com/Jessicacintra-eng/uni-24/raw/9ee350cbba2e699241932982cd117016a6b99185/Prot%C3%B3tipos/fluxo-cadastro-existente.mp4)
+
+Ou, usando a tag <video>:
+
+<video width="320" height="240" controls>
+  <source src="https://github.com/Jessicacintra-eng/uni-24/raw/9ee350cbba2e699241932982cd117016a6b99185/Prot%C3%B3tipos/fluxo-cadastro-existente.mp4" type="video/mp4">
+  Seu navegador não suporta a tag de vídeo.
+</video>
 
 
 ## Diagramas
 
-Os diagramas criados na fase 1 do projeto estão disponíveis na pasta [diagramas](https://github.com/Jessicacintra-eng/uni-24/tree/9ee350cbba2e699241932982cd117016a6b99185/Diagramas), em formato Markdown.
+Os diagramas criados na fase 1 do projeto estão disponíveis na pasta [diagramas](https://github.com/Jessicacintra-eng/uni-24/tree/9ee350cbba2e699241932982cd117016a6b99185/Diagramas)
+
+
+![Diagramas](https://github.com/Jessicacintra-eng/uni-24/raw/9ee350cbba2e699241932982cd117016a6b99185/Diagramas/Diagramas.png)
 
 
 ## Descrição dos Cenários
