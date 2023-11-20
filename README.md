@@ -8,6 +8,14 @@ Este repositório contém os protótipos da interface do sistema desenvolvidos p
 4. **[Cadastro de Fornecedores](#cadastro-de-fornecedores)**
 5. **[Cadastro de Alunos](#cadastro-de-alunos)**
 
+<div>
+  
+  
+![banner](https://github.com/Jessicacintra-eng/uni-24/blob/dbb7e706291b7cd4366aeedc9b9b53214770a64c/figma.png)
+
+
+</div>
+
 
 ## Protótipos Funcionais
 
